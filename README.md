@@ -20,7 +20,7 @@ The dataset includes information about past loan applicants, such as demographic
 
 
 ## Conclusions
-• Borrowers with high interest and 10+ years of employment length.
+•Borrowers with high interest and 10+ years of employment length.
 • Borrowers living on mortgage with loan amount greater than 12000.
 • Loan for debt consolidation, credit card, small business with loan amount greater than 12000.
 • For any loan amount provided with an average interest rate higher than 13%.
