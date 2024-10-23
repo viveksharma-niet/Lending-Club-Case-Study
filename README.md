@@ -1,5 +1,8 @@
 # Lending-Club-Case-Study
-Risk Analysis in Consumer Finance
+Lending a loan is "risky" decision that a company takes .To avoid financial loss a company must choose to finance people cautiously.
+
+The study identifies the risky loan applicants who might end up being a "defaulter" and can significantly bring financial loss to the lending company.
+A rigourous analysis is done to identify those driving factors which helps us narrow down to pinpoint who might end up being a defaulter.
 
 
 ## Table of Contents
