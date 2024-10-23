@@ -18,6 +18,12 @@ The project seeks to solve the problem of risk assessment in loan approval. By p
 - Dataset used
 The dataset includes information about past loan applicants, such as demographic details, loan characteristics, and whether the applicants defaulted on their loans. This historical data will be used to identify trends and patterns associated with loan defaults.
 
+## Technologies Used
+- Python - version 3.9.6
+- Pandas - version 2.2.2
+- NumPy - version 2.0.2
+- Matplotlib - version 3.9.2
+- Seaborn - version 0.13.2
 
 ## Conclusions
 - Borrowers with high interest and 10+ years of employment length.
@@ -30,14 +36,6 @@ The dataset includes information about past loan applicants, such as demographic
 - Average loan amount greater than 15000 with grade E, F, G.
 - Installments between 800-12000 with average interest greater than 15%.
 - Average interest rate of 17% with installment greater than 12000.
-
-  
-## Technologies Used
-- Python - version 3.9.6
-- Pandas - version 2.2.2
-- NumPy - version 2.0.2
-- Matplotlib - version 3.9.2
-- Seaborn - version 0.13.2
 
 ## Acknowledgements
 This project was created as a case study required for Executive PG Programme in Machine Learning & AI - IIIT, Bangalore. Special thanks to Upgrad for providing valuable resources and tutorials.
